@@ -7,9 +7,7 @@
 
 ## 📽️ Live Dashboard Walkthrough
 👉 Click the image below to view the demo video  
-[![Watch the Dashboard in Action](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/dynamic%20dashboard.mp4)
-
-> **Note**: Due to GitHub limitations, autoplay is not supported. To enable autoplay, consider hosting this video on [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/).
+[![Watch the Dashboard in Action] (https://youtu.be/GQPS7uj60EI?si=_4mV4Vmf9o7ITFJY)]
 
 ---
 
