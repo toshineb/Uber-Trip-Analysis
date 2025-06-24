@@ -1,7 +1,7 @@
 # Uber-Trip-Analysis
 # 🧠 Dynamic Business Intelligence Dashboard (Power BI) — Case Reflection
 
-![Dashboard Cover](./Screenshot 2025-06-24 012308.png)
+![Overview](./Screenshot%202025-06-24%20012308.png)
 
 > *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
 
