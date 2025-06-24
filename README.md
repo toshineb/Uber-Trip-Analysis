@@ -1,7 +1,7 @@
 # Uber-Trip-Analysis
 # 🧠 Dynamic Business Intelligence Dashboard (Power BI) — Case Reflection
 
-![Dashboard Cover](https://via.placeholder.com/1200x400.png?text=Dynamic+Dashboard+Preview)
+![Dashboard Cover](./Screenshot 2025-06-24 012308.png)
 
 > *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
 
@@ -50,6 +50,14 @@ Creating this dashboard was not only a technical exercise but a **strategic chal
 | **DAX**      | KPIs, Measures, Time Intelligence    |
 
 ---
+### ➤ Overview Dashboard
+![Overview](./Screenshot%202025-06-24%20012308.png)
 
-## 📁 File Structure
+### ➤ Time Analysis Dashboard
+![Time Analysis](./Screenshot%202025-06-24%20012325.png)
+
+### ➤ Trip Details Table
+![Trip Details](./Screenshot%202025-06-24%20012356.png)
+
+---
 
